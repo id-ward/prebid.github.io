@@ -57,5 +57,5 @@ Please reach out to Anonymised [representative](mailto:support@anonymised.io) if
 | name | String | Anonymised Rtd module name | 'anonymised' always|
 | waitForIt | Boolean | Required to ensure that the auction is delayed until prefetch is complete | Optional. Defaults to false |
 | params.cohortStorageKey | String | the `localStorage` key, under which Anonymised Marketing Tag stores the segment IDs | 'cohort_ids' always |
-| params.bidders | Array | Bidders with which to share segment information | Required |
+| params.bidders | Array | Bidders with which to share segment information | Optional |
 | params.segtax | Integer | The taxonomy for Anonymised | '1000' always |
