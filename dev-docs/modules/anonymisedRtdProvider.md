@@ -67,4 +67,3 @@ For any questions or assistance with integrating Prebid, `anonymisedRtdProvider`
 | params.bidders | `Array` | Bidders with which to share segment information | Optional |
 | params.segtax | `Integer` | The taxonomy for Anonymised | '1000' always |
 | params.tagConfig | `Object` | Configuration for the Anonymised Marketing Tag | Optional. Defaults to `{}`. |
-| params.tagUrl | `String` | The URL of the Anonymised Marketing Tag script | Optional. Defaults to `https://static.anonymised.io/light/loader.js`. |
